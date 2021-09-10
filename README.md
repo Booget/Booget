@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently studying **Computer science** at college.
 
-- 👯 I’m intrested in **Web development, game reverse engineering & some other misc tools!**
+- 👯 I’m intrested in **Web development, game reverse engineering and some other cool & intresting things!**
 
 - ⚡ Fun fact **I like cats.**
 
