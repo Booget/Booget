@@ -30,13 +30,21 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+## ⚡ GitHub Statistics
+<details>
+  <summary><b>Click to view my GitHub statistics</b></summary>
 
+  <table>
+    <tr>
       <td align="center" style="padding=0;width=50%;">
         <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=Booget&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
       </td>
       <td align="center" style="padding=0;width=50%;">
         <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Booget&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
       </td>
+    </tr>
+  </table>
+</details>
 
 
 
