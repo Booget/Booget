@@ -33,7 +33,6 @@
 ## 📈 Statistics:
 
 <details>
-  <summary><b>Click to view my GitHub statistics</b></summary>
 
   <table>
     <tr>
