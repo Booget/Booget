@@ -3,18 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Booget</h1>
 <h3 align="center">I'm a 17 year old computer science student!</h3>
 
-
-## 🙋‍♂️ About Me
-
-- 🔭 Hello! My name is **Alfie** or **Booget**!
-
-- 🌱 I'm currently studying **Computer science** at college.
-
-- 👯 I’m intrested in **Web development, game reverse engineering and some other cool & intresting things!**
-
-- ⚡ Fun fact **I like cats.**
-
-
+Sexiest man alive
 
 ## 🚀 Languages and Tools:
 
